@@ -16,7 +16,7 @@ spec:
       - name: demo-api
         image: drehnstrom/events-internal-deloitte:v1.0
         env: 
-        - name: GOOGLE_CLOUD_PROJECT
+        - name: roidtc-march406
           value: "mar-roidtc400-instructor"
         ports:
         - containerPort: 8082
